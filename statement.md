@@ -4,6 +4,11 @@ This Java template lets you get started quickly with a simple one-page playgroun
 
 ```java runnable
 // { autofold
+import java.time.Duration;
+import java.time.LocalDateTime;
+import java.time.Month;
+import java.time.ZoneId;
+import java.time.ZonedDateTime;
 public class Main {
 
 public static void main(String[] args) {
